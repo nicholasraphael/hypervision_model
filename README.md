@@ -17,10 +17,10 @@ Version 0.0 of Reform Image Models for sorting textiles based on various HSI ima
 First, install dependencies   
 ```bash
 # clone project   
-git clone https://github.com/ReformCompany/vision_models.git
+git clone https://github.com/nicholasraphael/hypervision_model.git
 
 # install project   
-cd vision_models 
+cd hypervision_model 
 pip install -e .   
 pip install -r requirements.txt
  ```   
